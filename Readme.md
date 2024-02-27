@@ -36,6 +36,8 @@ Our journey doesn't end here. We're committed to advancing SER research by explo
 
 - [Ariyan Shaw](https://github.com/LookOutForMe)
 - [Kaustav Ray](https://github.com/kaustav4646)
+- Ayush Kumar Chourasia
+- Sneha Pal
 
 ## Connect with Us 🌐
 
