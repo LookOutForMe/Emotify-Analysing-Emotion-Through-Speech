@@ -1,7 +1,7 @@
 # Speech Emotion Recognition using 1D CNN
 
 <div align="center">
-  <img src="https://ibb.co/SR28S4h" width="500px">
+  <img src="https://drive.google.com/file/d/1bIFf_ZJnfNn0lhuD3zKaA4wKJ7PphDRT/view?usp=sharing" width="500px">
 </div>
 
 ## Overview 🎙️
