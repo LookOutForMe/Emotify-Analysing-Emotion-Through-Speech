@@ -1,7 +1,7 @@
 # Speech Emotion Recognition using 1D CNN
 
 <div align="center">
-  <img src="https://your_image_link_here" width="500px">
+  <img src="https://ibb.co/SR28S4h" width="500px">
 </div>
 
 ## Overview 🎙️
@@ -34,12 +34,12 @@ Our journey doesn't end here. We're committed to advancing SER research by explo
 
 ## Contributors 👩‍💻👨‍💻
 
-- [Your Name](https://github.com/yourusername)
-- [Co-contributor's Name](https://github.com/cocontributorusername)
+- [Ariyan Shaw](https://github.com/LookOutForMe)
+- [Kaustav Ray](https://github.com/kaustav4646)
 
 ## Connect with Us 🌐
 
-Stay updated with our latest developments. Follow us on [Twitter](https://twitter.com/yourtwitterhandle) and [LinkedIn](https://linkedin.com/company/yourcompany).
+Stay updated with our latest developments.
 
 ## License 📜
 
